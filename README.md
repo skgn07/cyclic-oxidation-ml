@@ -123,7 +123,7 @@ cyclic-oxidation-ml/
 Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/skgn07/cyclic-oxidation-ml.git
 cd cyclic-oxidation-ml
 ```
 
