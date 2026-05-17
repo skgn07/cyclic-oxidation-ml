@@ -244,6 +244,38 @@ Potential future directions include:
 
 ---
 
+# Reference
+
+This repository reproduces and extends parts of the methodology presented in the following work:
+
+```text
+M. K. Anirudh,
+M. Sreenidhi Iyengar,
+P. H. Anantha Desik,
+M. P. Phaniraj
+
+"Artificial Intelligence Approach to Predict Elevated Temperature Cyclic Oxidation of Fe–Cr and Fe–Cr–Ni Alloys"
+
+Oxidation of Metals (2022)
+
+DOI: 10.1007/s11085-022-10123-5
+```
+
+Paper Link:
+
+https://link.springer.com/article/10.1007/s11085-022-10123-5
+
+The present repository further includes:
+- model benchmarking
+- cross-validation analysis
+- SHAP explainability
+- validation methodology studies
+- dataset duplication experiments
+- educational notebook workflows
+
+---
+
+
 # Acknowledgements
 
 This work was developed as part of a materials science and machine learning research initiative focused on cyclic oxidation modeling of Fe–Cr and Fe–Cr–Ni alloys.
